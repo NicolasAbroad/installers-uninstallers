@@ -1,4 +1,4 @@
-TARGET_VERSION=25.01.1
+TARGET_VERSION=25.07.1
 URL=https://github.com/helix-editor/helix/releases/latest/download/helix-$TARGET_VERSION-x86_64-linux.tar.xz
 NAME=hx
 
